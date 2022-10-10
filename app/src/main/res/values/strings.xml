@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Recycler1</string>
+    <string-array name="nim">
+    </string-array>
+    <string-array name="nama">
+    </string-array>
+
+</resources>
